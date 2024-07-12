@@ -16,6 +16,7 @@
 |France | 2| 29.42|
 |Brazil | 5| 22.23|
 |Indonesia | 5| 18.14|
+|Thailand | 1| 13.94|
 |Bangladesh | 2| 11.68|
 |India | 4| 2.82|
 

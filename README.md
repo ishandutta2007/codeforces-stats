@@ -10,12 +10,12 @@
 |Germany | 8| 95.4|
 |Italy | 3| 50.89|
 |UK | 3| 44.79|
+|Argentina | 2| 43.26|
 |France | 2| 29.42|
 |Brazil | 5| 22.23|
-|India | 4| 2.82|
-|Argentina | 2| 43.26|
 |Indonesia | 5| 18.14|
-|Bangladesh | 2| 0|
+|Bangladesh | 2| 11.68|
+|India | 4| 2.82|
 |South Korea | 20| 0|
 |Vietnum | 14| 0|
 

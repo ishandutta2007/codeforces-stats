@@ -4,7 +4,9 @@
 |Country | Red Coders| Red Coders Per Capita|
 |--------|---------|----------|
 |Japan | 57| 455.63|
+|South Korea | 20| 387.37|
 |Russia | 51| 353.67 |
+|Vietnum | 14| 142.58|
 |China | 196| 139.00 |
 |USA | 22| 66.00|
 |Germany | 8| 95.4|
@@ -16,7 +18,5 @@
 |Indonesia | 5| 18.14|
 |Bangladesh | 2| 11.68|
 |India | 4| 2.82|
-|South Korea | 20| 387.37|
-|Vietnum | 14| 0|
 
 

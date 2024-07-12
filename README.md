@@ -13,7 +13,7 @@
 |France | 2| 29.42|
 |Brazil | 5| 22.23|
 |India | 4| 2.82|
-|Argentina | 2| 0|
+|Argentina | 2| 43.26|
 |Indonesia | 5| 0|
 |Bangladesh | 2| 0|
 |South Korea | 20| 0|

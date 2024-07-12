@@ -16,7 +16,7 @@
 |Indonesia | 5| 18.14|
 |Bangladesh | 2| 11.68|
 |India | 4| 2.82|
-|South Korea | 20| 0|
+|South Korea | 20| 387.37|
 |Vietnum | 14| 0|
 
 
